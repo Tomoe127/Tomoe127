@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomoe</h1>
-<h3 align="center">A passionate frontend developer from Arequipa</h3>
+<h1 align="center">Hi 👋, I'm Anthony</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
